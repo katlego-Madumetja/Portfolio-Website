@@ -31,7 +31,7 @@
 
   font-size: 1rem;
   font-weight: 600;
-  color: white;
+
 }
 
 .dropdown-item{
@@ -51,24 +51,17 @@
     
 
 }
-
 .full-footer,
-.container ,
-.row,
-.col-md-3,a,p{
+.col-md-3,a{
+
+  color: ghostwhite;
+}
+
+.btm_footer{
 
   color: ghostwhite;
   font-weight: 600;
 
-
-}
-
-.full-footer,
-.container ,
-.row,
-.col-md-3,a,h3{
-
-  color: ghostwhite;
 
 }
 
@@ -88,3 +81,70 @@ background-color:#2c3e50 ;
 }
 
 
+.details{
+
+  color: ghostwhite;
+  font-size: 14px;
+  font-weight: 600;
+}
+/*The end of the bottom footer*/
+
+/*start of section do*/
+.do-section{
+
+  background-color:#4834d4;
+  color: ghostwhite;
+}
+
+.quality-img{
+
+  width: 150px;
+
+  
+}
+
+/*rquirement quiz from third section of do homepage*/
+
+.requirement-quiz{
+
+  background-color: #5352ed;
+}
+
+.requirement-quiz .text-center{
+
+  color: ghostwhite;
+  font-weight: 600;
+
+}
+/*end rquirement quiz from third section of do homepage*/
+
+/*start of Newslettter section */
+
+.newsletter{
+
+  background-color:#5352ed;
+  color: ghostwhite;
+}
+
+.newsletter .form-control{
+
+   height: 50px;
+   border-color: transparent;
+   border-radius: 20px 0 0 20px;
+
+
+}
+.newsletter .btn{
+
+  height: 50px;
+  border-color: transparent;
+  border-radius: 0 20px 20px 0;
+  background-color: #747d8c;
+  font-weight: 600;
+  color:ghostwhite;
+  
+
+}
+
+
+/*end ofNewslettter  section */
