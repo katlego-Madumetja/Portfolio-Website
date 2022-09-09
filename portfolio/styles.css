@@ -148,3 +148,24 @@ background-color:#2c3e50 ;
 
 
 /*end ofNewslettter  section */
+
+/* starts brands*/
+
+.car_brands{
+
+color:blue;
+font-weight: 600;
+
+}
+
+/* end brands*/
+
+/*End of Styling of Home page  */
+
+
+/*Start of Styling About Us page*/
+
+.breadcrumb-section{
+
+  background-color: #e9ecef;
+}
